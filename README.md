@@ -1,1 +1,1 @@
-The human audible range is from about 20Hz to 20K Hz. So when you are listening to music, you are hearing the sound waves somewhere within that frequency range.
+The human audible range is from about 20Hz to 20K Hz. So when you are listening to music, you are hearing the sound waves somewhere within that frequency range.With a 3 band equalizer we break up the spectrum in three sections : 1) the bass for the low sounds      2) the mid for the mid range     3) the treble for the high frequenceies 
