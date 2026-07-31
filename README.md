@@ -1,5 +1,4 @@
-
-
+(ENG) The human audible range is from about 20Hz to 20K Hz.
 
 
 
